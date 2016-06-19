@@ -7,6 +7,3 @@ for STM32F4 microcontroller
 hub75.h - header
 
 hub75.c - source of driver
-
-
-
