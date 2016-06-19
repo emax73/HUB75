@@ -24,12 +24,8 @@
 #define HUB_TIMER2_NS ((1000 + (HUB_TIMER2_MHZ >> 1)) / HUB_TIMER2_MHZ) // 6ns for timer2 tick
 #define HUB_PERIOD2_MAX_NS (500 * HUB_COLOR_BIT0)
 #define HUB_PERIOD2_MIN_NS 100
-//#define HUB_PERIOD2_MIN_NS (HUB_TIMER2_NS << 1)
 
-//#define HUB_GAMMA 1.2 // - Good for Gamma Test
-//#define HUB_GAMMA 2.2 // - Good for Photo
-//#define HUB_GAMMA 2.5 // - Bars
-#define HUB_GAMMA 2.8 // - Max's photo
+#define HUB_GAMMA 2.8
 
 #define HUB_ROWS 16
 #define HUB_ROWS_MASK (HUB_ROWS - 1)

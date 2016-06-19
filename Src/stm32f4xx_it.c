@@ -30,7 +30,6 @@
 #include "main.h"
 #include "stm32f4xx_it.h"
 #include "GUI.h"
-#include "uart.h"
 
 /* Private typedef -----------------------------------------------------------*/
 /* Private define ------------------------------------------------------------*/
@@ -147,7 +146,7 @@ void SysTick_Handler(void)
 void UART5_IRQHandler(void)
 {
   //HAL_UART_IRQHandler(&huart5);
-  uartIRQHandler(&huart5);
+  //uartIRQHandler(&huart5);
 }
 
 

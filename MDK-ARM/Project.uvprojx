@@ -498,11 +498,6 @@
               <FilePath>..\Src\main.c</FilePath>
             </File>
             <File>
-              <FileName>dcf77.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Src\dcf77.c</FilePath>
-            </File>
-            <File>
               <FileName>delay.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Src\delay.c</FilePath>
@@ -511,26 +506,6 @@
               <FileName>mstimer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Src\mstimer.c</FilePath>
-            </File>
-            <File>
-              <FileName>time2.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Src\time2.c</FilePath>
-            </File>
-            <File>
-              <FileName>uart.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Src\uart.c</FilePath>
-            </File>
-            <File>
-              <FileName>gps.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Src\gps.c</FilePath>
-            </File>
-            <File>
-              <FileName>tfa.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\Src\tfa.c</FilePath>
             </File>
             <File>
               <FileName>main_entry.c</FileName>

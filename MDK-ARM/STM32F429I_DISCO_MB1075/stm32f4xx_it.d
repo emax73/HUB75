@@ -56,5 +56,3 @@ stm32f429i_disco_mb1075\stm32f4xx_it.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_
 stm32f429i_disco_mb1075\stm32f4xx_it.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Drivers\BSP\STM32F429I-Discovery\..\Components\ili9341\ili9341.h
 stm32f429i_disco_mb1075\stm32f4xx_it.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Drivers\BSP\STM32F429I-Discovery\..\Components\ili9341\../Common/lcd.h
 stm32f429i_disco_mb1075\stm32f4xx_it.o: ..\Inc\stm32f4xx_it.h
-stm32f429i_disco_mb1075\stm32f4xx_it.o: ..\Inc\uart.h
-stm32f429i_disco_mb1075\stm32f4xx_it.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

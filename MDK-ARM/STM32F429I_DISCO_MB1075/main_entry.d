@@ -43,10 +43,6 @@ stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h
 stm32f429i_disco_mb1075\main_entry.o: ..\Inc\mstimer.h
-stm32f429i_disco_mb1075\main_entry.o: ..\Inc\dcf77.h
-stm32f429i_disco_mb1075\main_entry.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
-stm32f429i_disco_mb1075\main_entry.o: ..\Inc\time2.h
-stm32f429i_disco_mb1075\main_entry.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Middlewares\ST\STemWin\inc\GUI.h
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Middlewares\ST\STemWin\inc\GUI_ConfDefaults.h
 stm32f429i_disco_mb1075\main_entry.o: ..\Inc\GUIConf.h
@@ -54,7 +50,5 @@ stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Middlewares\ST\STemWin\inc\LCD.h
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Middlewares\ST\STemWin\inc\Global.h
 stm32f429i_disco_mb1075\main_entry.o: D:\STM32Cube\Repository\STM32Cube_FW_F4_V1.11.0\Middlewares\ST\STemWin\inc\GUI_Version.h
-stm32f429i_disco_mb1075\main_entry.o: ..\Inc\gps.h
-stm32f429i_disco_mb1075\main_entry.o: ..\Inc\uart.h
-stm32f429i_disco_mb1075\main_entry.o: ..\Inc\tfa.h
 stm32f429i_disco_mb1075\main_entry.o: ..\Inc\hub75.h
+stm32f429i_disco_mb1075\main_entry.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
