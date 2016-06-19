@@ -20,21 +20,21 @@ screen_t matrix[SCREEN_PAGES] = { 0 };
 	R1 ->	 PC11
 	G1 ->	 PC12
 	B1 ->	 PC13
-	GND -> GND
+	GND ->	 GND
 	R2 ->	 PD2
 	G2 ->	 PD4
 	B2 ->	 PD5
-	GND -> GND
+	GND ->	 GND
 	A  ->	 PE2
-	B  ->  PE3
+	B  ->	 PE3
 	C  ->	 PE4
 	D  ->	 PE5
-	CLK -> PD7
-	LAT -> PG2
-	NOE -> PF6 (TIM10_CH1)
-	GND -> GND
+	CLK ->	 PD7
+	LAT ->	 PG2
+	NOE ->	 PF6 (TIM10_CH1)
+	GND ->	 GND
 
-	PA5 -> pin for test timings
+	PA5 ->	 pin for test timings
 */
 
 const pin_t
